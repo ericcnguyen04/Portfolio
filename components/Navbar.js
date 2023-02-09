@@ -10,7 +10,7 @@ export default function Navbar() {
             </Link>
 
             <Link href="/about">
-                <a>About me</a>
+                About me
             </Link>
 
             {/* outside sources use regular a tags */}
